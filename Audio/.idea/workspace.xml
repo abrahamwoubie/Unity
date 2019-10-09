@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ea2cfea-6b20-46ef-96e5-421108ec832d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/3DBall/TFModels/3DBallHardLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/3DBall/TFModels/3DBallHardLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/3DBall/TFModels/3DBallLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/3DBall/TFModels/3DBallLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Basic/TFModels/BasicLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Basic/TFModels/BasicLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Bouncer/TFModels/BouncerLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Bouncer/TFModels/BouncerLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Crawler/TFModels/CrawlerDynamicLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Crawler/TFModels/CrawlerDynamicLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Crawler/TFModels/CrawlerStaticLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Crawler/TFModels/CrawlerStaticLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/FoodCollector/TFModels/FoodCollectorLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/FoodCollector/TFModels/FoodCollectorLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/GridWorld/TFModels/GridWorldLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/GridWorld/TFModels/GridWorldLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Hallway/TFModels/HallwayLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Hallway/TFModels/HallwayLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/PushBlock/TFModels/PushBlockLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/PushBlock/TFModels/PushBlockLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/Brains/PyramidsLearning.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/Brains/PyramidsLearning.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/Prefabs/AreaPB.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/Prefabs/AreaPB.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/Prefabs/BrickPyramid.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/Prefabs/BrickPyramid.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/Scenes/Pyramids.unity" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/Scenes/Pyramids.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/Scripts/PyramidAgent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/Scripts/PyramidAgent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/Scripts/PyramidSwitch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/Scripts/PyramidSwitch.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/TFModels/PyramidsLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Pyramids/TFModels/PyramidsLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Reacher/TFModels/ReacherLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Reacher/TFModels/ReacherLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Tennis/TFModels/TennisLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Tennis/TFModels/TennisLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Walker/TFModels/WalkerLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Walker/TFModels/WalkerLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/TFModels/BigWallJumpLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/TFModels/BigWallJumpLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/TFModels/SmallWallJumpLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/WallJump/TFModels/SmallWallJumpLearning.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/config/trainer_config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/config/trainer_config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/ml-agents/mlagents/trainers/tf_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/ml-agents/mlagents/trainers/tf_policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents/ml-agents/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/ml-agents/setup.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ml-agents" />
+  </component>
+  <component name="ProjectId" id="1Rj0SEjvpTPV3cGvYr3jyfJW0vv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Audio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml-agents" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml-agents/Plot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Plot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ea2cfea-6b20-46ef-96e5-421108ec832d" name="Default Changelist" comment="" />
+      <created>1570165195154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570165195154</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
