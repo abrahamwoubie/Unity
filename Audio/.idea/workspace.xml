@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ea2cfea-6b20-46ef-96e5-421108ec832d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-agents" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/3DBall/TFModels/3DBallHardLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/3DBall/TFModels/3DBallHardLearning.nn.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/3DBall/TFModels/3DBallLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/3DBall/TFModels/3DBallLearning.nn.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Basic/TFModels/BasicLearning.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/UnitySDK/Assets/ML-Agents/Examples/Basic/TFModels/BasicLearning.nn.meta" afterDir="false" />
@@ -30,6 +33,7 @@
       <change beforePath="$PROJECT_DIR$/ml-agents/config/trainer_config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/config/trainer_config.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ml-agents/ml-agents/mlagents/trainers/tf_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/ml-agents/mlagents/trainers/tf_policy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ml-agents/ml-agents/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/ml-agents/ml-agents/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baseline/ml-agents" beforeDir="false" afterPath="$PROJECT_DIR$/../Baseline/ml-agents" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +54,7 @@
   <component name="ProjectId" id="1Rj0SEjvpTPV3cGvYr3jyfJW0vv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Visual" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
